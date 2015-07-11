@@ -1,6 +1,6 @@
 {
   "locals": {
-    "url": "http://localhost:80",
+    "url": "http://localhost:9000",
     "name": "Julian's Blog",
     "owner": "Julian Anderson",
     "description": "Ramblings of a nerd"
